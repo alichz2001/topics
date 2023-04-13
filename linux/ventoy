@@ -1,0 +1,6 @@
+#title ventoy
+#category [app]
+#tags [boot, linux, iso]
+#keywords [boot, "multiple boot option"]
+#description "tool for have multiple image on one USB flash"
+#help "just unzip releas and run VentoyGUI.<arch> and after instalation copy iso images on Ventoy partition on USB falsh"
