@@ -1,6 +1,5 @@
 .
-(0tqq (Blinux
-(0x   mqq (Bventoy
-(0mqq (BREADME.md
+├── linux
+│   └── ventoy
+└── README.md
 
-2 directories, 2 files
