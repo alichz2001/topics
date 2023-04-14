@@ -1,0 +1,6 @@
+#title just
+#category [cli-tool]
+#tags [development, script-runner]
+#keywords []
+#description "just is a handy way to save and run project-specific commands."
+#help "describe reapeadable commands in project in Justfile and use them eazily"
