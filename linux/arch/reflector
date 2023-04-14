@@ -1,0 +1,6 @@
+#title reflector
+#category [tool, cli]
+#tags [pacman, linux, mirror-list]
+#keywords [pacman, paru]
+#description "tool for select best mirror for pacman"
+#help "https://man.archlinux.org/man/reflector.1#EXAMPLES"
